@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Insomnia
+Exec=/usr/bin/insomnia
+Icon=/usr/share/icons/hicolor/512x512/apps/insomnia.png
+Type=Application
+Categories=Development;

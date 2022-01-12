@@ -1,0 +1,17 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 15 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+         |-----handy-ruler---------------------------------------------------|
+openjdk15: openjdk15 (Open Implementation of JDK)
+openjdk15:
+openjdk15: OpenJDK 15 is an open source implementation of the Java
+openjdk15: Development Kit, Standard Edition. It includes tools for
+openjdk15: developing, testing, and running programs written in Java.
+openjdk15:
+openjdk15:
+openjdk15:
+openjdk15:
