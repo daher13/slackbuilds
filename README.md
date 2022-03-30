@@ -1,2 +1,2 @@
 # slackbuilds
-My SlacBuilds
+My SlackBuilds
